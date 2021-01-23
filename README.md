@@ -1,5 +1,5 @@
 # msp430-measure-flow
-Library to measure flow with any of the YFS-201, FS300A, FS400A sensors, and is shown on an LCD. This was tested on 
+Library to measure flow with any of the YFS-201, FS300A, FS400A sensors, and then show it on an LCD. This was tested on 
 the launchpad of MSP430FR4133 but it can be easily adapted to any MCU. Developed in the IDE Code Composer Studio. 
 
 ### Developed in:
