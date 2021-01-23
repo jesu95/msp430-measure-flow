@@ -5,8 +5,8 @@ the launchpad of MSP430FR4133 but it can be easily adapted to any MCU. Developed
 ### Developed in:
 <p>
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.jpeg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/code_composer.jpg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/ccs.png">
 </p>
 
 ### Authors:
